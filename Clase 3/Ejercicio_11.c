@@ -1,4 +1,4 @@
-#include <stdio.h>
+ #include <stdio.h>
 
 int maint(){
 	inv v = 18, w = 21;
